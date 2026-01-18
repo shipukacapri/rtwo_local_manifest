@@ -22,9 +22,9 @@
    <!-- Kernel tree (your fork) -->
   <project
       path="kernel/motorola/sm8550"
-      name="LineageOS/android_kernel_motorola_sm8550"
+      name="shipukacapri/android_kernel_motorola_sm8550"
       remote="github"
-      revision="lineage-23.1" />
+      revision="infinity" />
 
   <!-- Kernel Modules tree (your fork) -->
   <project
