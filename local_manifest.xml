@@ -6,7 +6,7 @@
       path="device/motorola/rtwo"
       name="shipukacapri/android_device_motorola_rtwo"
       remote="github"
-      revision="inf-qp2" />
+      revision="axion" />
 
  <!-- Common device tree for sm8550 platform (your fork) -->
   <project
