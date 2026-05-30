@@ -6,14 +6,14 @@
       path="device/motorola/rtwo"
       name="shipukacapri/android_device_motorola_rtwo"
       remote="github"
-      revision="inf-qp2" />
+      revision="voltage" />
 
  <!-- Common device tree for sm8550 platform (your fork) -->
   <project
       path="device/motorola/sm8550-common"
-      name="LineageOS/android_device_motorola_sm8550-common"
+      name="shipukacapri/android_device_motorola_sm8550-common"
       remote="github"
-      revision="lineage-23.2" />
+      revision="voltage" />
 
    <!-- Kernel tree (your fork) -->
   <project
