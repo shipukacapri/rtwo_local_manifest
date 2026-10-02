@@ -13,14 +13,14 @@
       path="device/motorola/sm8550-common"
       name="shipukacapri/android_device_motorola_sm8550-common"
       remote="github"
-      revision="erofs" />
+      revision="lineage-24.0" />
 
    <!-- Kernel tree (your fork) -->
   <project
       path="kernel/motorola/sm8550"
       name="shipukacapri/android_kernel_motorola_sm8550"
       remote="github"
-      revision="fixed-erofs" />
+      revision="fixed" />
 
   <!-- Kernel Modules tree (your fork) -->
   <project
