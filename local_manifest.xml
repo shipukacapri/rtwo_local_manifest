@@ -82,7 +82,7 @@
     remote="gitlab-deivid"
     revision="android-17" />
 
-  <!-- MotoCam3AI Bengal -->
+  <!-- MotoCam3AI sm8550 -->
   <project
     name="proprietary_vendor_motorola_MotCamera3AI-sm8550"
     path="vendor/motorola/MotCamera3AI-sm8550"
